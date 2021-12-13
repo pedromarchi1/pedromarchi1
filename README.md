@@ -2,7 +2,7 @@
  <br />
  👀 Atualmente estou em busca da minha primeira oportunidade no mercado de trabalho
  <br />
- 🌱 No momento estou aprendendo React e Java
+ 🌱 Estou aprendendo React e Java
  <br />
  📫 Contate-me no email: pedro-marchi12@hotmail.com
  <br />
