@@ -5,7 +5,7 @@
  🌱 No momento estou aprendendo React e Java
  <br />
  📫 Contate-me no email: pedro-marchi12@hotmail.com
- 
+ <br />
  <br />
 <div align="center">
   <a href="https://github.com/pedromarchi1">
