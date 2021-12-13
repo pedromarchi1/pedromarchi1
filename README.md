@@ -6,7 +6,7 @@
  <br />
  📫 Contate-me no email: pedro-marchi12@hotmail.com
  
- <br /><br />
+ <br />
 <div align="center">
   <a href="https://github.com/pedromarchi1">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=pedromarchi1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
