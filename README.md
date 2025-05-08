@@ -1,10 +1,10 @@
  ## Oi, eu sou o Pedro Marchi 😀
  <br />
- 👀 Atualmente estou em busca da minha primeira oportunidade no mercado de trabalho
+ 👀 Atualmente estou em busca da minha primeira oportunidade na área de desenvolvimento
  <br />
  📚 Estou aprendendo React e Java
  <br />
- 📧 Contate-me no email: pedro-marchi12@hotmail.com
+ 📧 Contate-me no email: marchipedro30@gmail.com
  <br />
  <br />
 <div align="center">
