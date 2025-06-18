@@ -2,7 +2,7 @@
  <br />
  👀 Atualmente estou em busca da minha primeira oportunidade na área de desenvolvimento
  <br />
- 📚 Estou aprendendo React e Java
+ 📚 Estou aprendendo Java
  <br />
  📧 Contate-me no email: marchipedro30@gmail.com
  <br />
